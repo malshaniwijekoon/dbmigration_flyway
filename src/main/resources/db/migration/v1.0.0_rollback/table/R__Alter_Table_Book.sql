@@ -1,0 +1,1 @@
+ALTER TABLE book.profile DROP COLUMN "updated_on";
